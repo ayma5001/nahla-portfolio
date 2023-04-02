@@ -21,9 +21,9 @@ import {
   talend,
   debeaver,
   hp,
-  video1,
-  video2,
-  video3,
+  // video1,
+  // video2,
+  // video3,
 } from "../assets";
 
 export const navLinks = [
@@ -250,7 +250,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: video1,
+    image: "video1",
     source_code_link: "https://www.youtube.com/watch?v=_tabHnP9YJs&t=87s",
   },
   {
@@ -271,7 +271,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: video2,
+    image: "video2",
     source_code_link: "https://www.youtube.com/watch?v=JnXTakk7OqE",
   },
   {
@@ -291,7 +291,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: video3,
+    image: "video3",
     source_code_link: "https://www.youtube.com/watch?v=T2_GaChrU1A",
   },
 ];

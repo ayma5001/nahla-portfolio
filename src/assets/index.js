@@ -48,14 +48,14 @@ import pl from "./tech/pl.png";
 import talend from "./tech/Talend.png";
 import debeaver from "./tech/dbeaver.png";
 import hp from "./tech/hp.png";
-import video1 from "./video1.png";
-import video2 from "./video2.png";
-import video3 from "./video3.png"
+// import video1 from "./video1.png";
+// import video2 from "./video2.png";
+// import video3 from "./video3.png"
 import youtube from "./youtube.png";
 export {
   logo2,
-  video1,
-  video2,
+  // video1,
+  // video2,
   debeaver,
   oracle,
   talend,
@@ -103,5 +103,5 @@ export {
   tripguide,
   maven,
   youtube,
-  video3,
+  // video3,
 };
