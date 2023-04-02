@@ -28,7 +28,7 @@ const Hero = () => {
         <img
           className="md:w-[450px] md:h-[600px] h-[300px] w-[300px] rounded-full md:ml-[100px] self-center shadow-[3px_3px_20px_0px_#b794f4a2] "
           src="img/profile.jpeg"
-          alt="profile"
+          alt="profile-pic"
         />
         {/* <img
             className="md:w-[450px] md:h-[600px] h-[200px] w-[200px] rounded-full md:ml-[100px] self-center shadow-[3px_3px_20px_0px_#b794f4a2] absolute top-0 left-0 opacity-0 hover:opacity-100 "
