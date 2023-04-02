@@ -2,7 +2,6 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 
-
 const Hero = () => {
   return (
     <section className={`relative w-full h-screen mx-auto`}>
@@ -26,12 +25,12 @@ const Hero = () => {
           </p>
         </div>
         {/* <div class="relative"> */}
-          <img
-            className="md:w-[450px] md:h-[600px] h-[300px] w-[300px] rounded-full md:ml-[100px] self-center shadow-[3px_3px_20px_0px_#b794f4a2] "
-            src="profile.jpeg"
-            alt="profile"
-          />
-          {/* <img
+        <img
+          className="md:w-[450px] md:h-[600px] h-[300px] w-[300px] rounded-full md:ml-[100px] self-center shadow-[3px_3px_20px_0px_#b794f4a2] "
+          src="img/profile.jpeg"
+          alt="profile"
+        />
+        {/* <img
             className="md:w-[450px] md:h-[600px] h-[200px] w-[200px] rounded-full md:ml-[100px] self-center shadow-[3px_3px_20px_0px_#b794f4a2] absolute top-0 left-0 opacity-0 hover:opacity-100 "
             src="profile2.jpeg"
             alt="profile"
