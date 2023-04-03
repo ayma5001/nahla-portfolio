@@ -45,7 +45,7 @@ const Navbar = () => {
           <img src={logo2} alt="logo" className="w-12 h-12 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Nahla Laribi &nbsp;
-            <span className="lg:block hidden"> | Business coach</span>
+            <span className="lg:block hidden"> | Team Leader </span>
           </p>
         </Link>
 

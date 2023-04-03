@@ -143,7 +143,7 @@ const experiences = [
     company_name: "Capgemini",
     icon: capgemini,
     iconBg: "#383E56",
-    date: "Mar 2011 - Jan 2017",
+    date: "June 2012 - Jan 2017",
     points: [
       "Ensuring validation of all changes to the Futur Telecom billing system.",
       "Writing test plans (regression tests, integration tests, critical tests).",
@@ -152,6 +152,22 @@ const experiences = [
       "Generating test reports.",
       "Preparing integration platforms.",
       "Writing production deployment procedures.",
+    ],
+  },
+  {
+    title: "Development Engineer",
+    company_name: "Capgemini",
+    icon: capgemini,
+    iconBg: "#383E56",
+    date: "Mar 2011 - June 2012",
+    points: [
+      "Creating graphical interfaces.",
+      "Developing the import and export of XML/TXT files using Talend Open Studio.",
+      "Implementing the solution for equipment monitoring (KPIs, alarms, incidents).",
+      "Ensuring project maintenance.",
+      "Managing user rights and profiles.",
+      "Testing and integrating all parts of the project.",
+      "Applying and respecting method requirements.",
     ],
   },
   {
