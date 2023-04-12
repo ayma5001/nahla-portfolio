@@ -43,7 +43,7 @@ const Navbar = () => {
           }}
         >
           <img src={logo2} alt="logo" className="w-12 h-12 object-contain" />
-          <p className="text-white text-[18px] font-bold cursor-pointer flex ">
+          <p className="text-black text-[18px] font-bold cursor-pointer flex ">
             Nahla Laribi &nbsp;
             <span className="lg:block hidden"> | Team Leader </span>
           </p>
@@ -74,7 +74,7 @@ const Navbar = () => {
           <div
             className={`${
               !toggle ? "hidden" : "flex"
-            } p-6 black-gradient absolute top-20 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}
+            } p-6 bg-gradient-to-l from-yellow-100 via-yellow-300 to-yellow-500 absolute top-20 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}
           >
             <ul className="list-none flex justify-end items-start flex-1 flex-col gap-4">
               {navLinks.map((nav) => (

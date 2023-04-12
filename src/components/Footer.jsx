@@ -2,10 +2,10 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer class="bg-black-100">
+    <footer class="bg-tertiary">
       <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div class="sm:flex sm:items-center sm:justify-between">
-          <span class="text-sm text-white sm:text-center">
+          <span class="text-sm text-black sm:text-center">
             Created with love by &nbsp;
             <a
               href="https://www.linkedin.com/in/mahmoud-ayed-111329207"
@@ -18,7 +18,7 @@ const Footer = () => {
             Reserved.
           </span>
           <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
-            <a href="#" class="text-white hover:text-red-600">
+            <a href="#" class="text-black hover:text-red-600">
               <svg
                 class="w-5 h-5"
                 fill="currentColor"
@@ -33,7 +33,7 @@ const Footer = () => {
               </svg>
               <span class="sr-only">Facebook page</span>
             </a>
-            <a href="#" class="text-white hover:text-red-600">
+            <a href="#" class="text-black hover:text-red-600">
               <svg
                 class="w-5 h-5"
                 fill="currentColor"
@@ -48,7 +48,7 @@ const Footer = () => {
               </svg>
               <span class="sr-only">Instagram page</span>
             </a>
-            <a href="#" class="text-white hover:text-red-600">
+            <a href="#" class="text-black hover:text-red-600">
               <svg
                 class="w-5 h-5"
                 fill="currentColor"
@@ -62,7 +62,7 @@ const Footer = () => {
             <a
               href="https://www.youtube.com/@nahlalaribi8123"
               target="_blank"
-              class="text-white hover:text-red-600"
+              class="text-black hover:text-red-600"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ const Footer = () => {
             <a
               href="https://www.linkedin.com/in/nahla-laribi-45305726/"
               target="_blank"
-              class="text-white hover:text-red-600"
+              class="text-black hover:text-red-600"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
