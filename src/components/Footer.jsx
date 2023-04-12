@@ -10,7 +10,7 @@ const Footer = () => {
             <a
               href="https://www.linkedin.com/in/mahmoud-ayed-111329207"
               class="hover:underline"
-              style={{ color: "red" }}
+              style={{ color: "red", fontWeight: "bold" }}
             >
               &#9825; Mahmoud &#9825;
             </a>
