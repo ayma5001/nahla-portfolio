@@ -225,7 +225,7 @@ const testimonials = [
     testimonial:
       "Nahla is amazing! She helped me gain clarity and direction in my personal and professional life.",
     name: "Sara Lee",
-    designation: "CFO",
+    designation: "Network Engineer",
     company: "Orange France",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
@@ -233,7 +233,7 @@ const testimonials = [
     testimonial:
       "Nahla's energy healing sessions are truly transformative. I felt so much lighter and more grounded after just one session with her.",
     name: "Mehdi Midra",
-    designation: "COO",
+    designation: "Software Developer",
     company: "ARNU",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
@@ -241,7 +241,7 @@ const testimonials = [
     testimonial:
       "Nahla is not just a coach, she's a mentor and a friend. She has a genuine desire to help people succeed and reach their full potential.",
     name: "Alexandra Colas",
-    designation: "CTO",
+    designation: "Testing Team Lead",
     company: "Capgimini",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
