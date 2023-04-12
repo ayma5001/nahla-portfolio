@@ -22,6 +22,13 @@ const Hero = () => {
             <br className="md:block hidden" />
             Teaching exp in math & Arabic.
           </p>
+          <div className="flex  items-center sm:gap-[15px] gap-[10px] mt-[15px]">
+            <img src="/img/address.png" className="sm:w-10 sm:h-10 w-5 h-5" />
+            <span className="text-[blue] sm:text-[24px] text-[14px]">
+              Based in France
+            </span>
+            <img src="/img/france.png" className="sm:w-10 sm:h-10 w-5 h-5" />
+          </div>
         </div>
         {/* <div class="relative"> */}
         <img
