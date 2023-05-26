@@ -7,4 +7,5 @@ technology and creativity. Explore my work and discover how I bring ideas to lif
 
 ## <a href="https://nahlalaribi.netlify.app/" target="_blank">LIVE DEMO</a>
 
-![project17](https://github.com/ayma5001/nahla-portfolio/assets/71443545/c08465ea-91cd-43a9-9bde-d5c6525767d1)
+![project17](https://github.com/ayma5001/nahla-portfolio/assets/71443545/12d5d390-87e5-4784-ab30-88531def705e)
+
